@@ -1,3 +1,7 @@
+html {
+    font-family:'Public Sans', sans-serif;
+}
+
 body {
     font-size: 200%;
     background-color: dimgrey;
@@ -69,9 +73,18 @@ article {
 table{
     background-color: white;
     text-align: center;
+    font-size: 100%;
 }
 
 footer {
     background-color: darkgray;
     text-align: center;
+}
+
+p {
+    font-size: 110%;
+}
+
+h3 {
+    font-size: 140%;
 }
